@@ -10,6 +10,7 @@ tag: $('div')
 進階版
 (參考jQuery Cookbook)
 選擇被<form>包住的所有class為button的元件
+
 	<div id="buttonsDiv"> 
 	<form>
 	  <input type="button" id="button1" class="buttons" value="div1"></input>
